@@ -18,4 +18,5 @@ Please provide the contract address that you deployed on the Sepolia network.
 
 ## Sepolia Etherscan
 Paste the contract address into the Sepolia Etherscan and share the screenshot.
+![log](https://github.com/Angela-0829/Fintech-HW0/assets/66252513/393d66af-f0ac-4467-a622-5f3a83e60b8c)
 ![Etherscan](https://github.com/Angela-0829/Fintech-HW0/assets/66252513/b25483ec-982f-42dd-873e-46724b09052e)
